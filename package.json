@@ -1,0 +1,15 @@
+{
+  "name": "creation-to-cross-for-kids",
+  "version": "1.0.0",
+  "description": "Creation to the Cross - for Kids is built on a simple truth: even young children can understand the Bible's most important message. Like a puzzle, each story is a piece that fits into a bigger picture—and as children discover each piece, they begin to see God's plan unfold.",
+  "license": "AGPL-3.0",
+  "scripts": {
+    "lint": "npx markdownlint-cli2 '*.md' 'lessons/**/**.md'",
+    "format": "npx prettier -w .",
+    "test": "echo 'Error: no test specified' && exit 0"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.23.2",
+    "prettier": "^3.9.6"
+  }
+}
