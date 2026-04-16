@@ -1,0 +1,40 @@
+# 🧑‍🤝‍🧑 [Creation to the Cross - for Kids](https://rosieherrick.github.io/creation-to-cross-for-kids/)
+
+## 📖 Luke 24:27 (ESV)
+
+> And beginning with Moses and all the Prophets, He explained to them what was said in all the Scriptures concerning Himself.
+
+## 📋 About
+
+_Creation to the Cross - for Kids_ is built on a simple truth: even young children can understand the Bible's most important message. Like a puzzle, each story is a piece that fits into a bigger picture—and as children discover each piece, they begin to see God's plan unfold.
+
+This curriculum introduces children to God as Creator, starting at the very beginning. It guides them through key events such as creation, the fall, the flood, God's promises to Abraham, and His faithfulness to Moses and the people of Israel. Throughout each lesson, children are shown how every part of the Bible points to Jesus, the promised Savior who died on the cross for us.
+
+With clear teaching notes, engaging activities, and thoughtful review questions, this curriculum helps you confidently share the message of the Bible in a way children can understand.
+
+## 🏁 [Getting Started](./lessons/README.md)
+
+To begin teaching or reviewing the material, [Get Started](./lessons/README.md) with the lessons. Each one includes a main guide and supporting resources where available. Read more below for an overview of the curriculum and its approach to teaching the Bible.
+
+## 📜 A Unique Book
+
+There is no doubt about it—the Bible is a unique book. In fact, it is a collection of 66 books.
+
+It was written over a span of 1,500 years, across more than 40 generations, by over 40 authors from every walk of life: kings, peasants, philosophers, fishermen, poets, statesmen, and scholars.
+
+Among them were Moses, a political leader trained in the universities of Egypt; Peter, a fisherman; Amos, a herdsman; Joshua, a military general; Nehemiah, a cupbearer; Daniel, a prime minister; Luke, a doctor; Solomon, a king; Matthew, a tax collector; and Paul, a rabbi.
+
+These writings came from many different places: Moses in the wilderness, Jeremiah in a dungeon, Daniel on a hillside and in a palace, Paul in prison, Luke while traveling, John on the island of Patmos, and others in the midst of military campaigns.
+
+They were written at different times, with David writing during war and Solomon during peace. They also reflect a wide range of emotions, from the heights of joy to the depths of sorrow and despair.
+
+The Bible was written across three continents: Asia, Africa, and Europe—and in three languages: Hebrew, Aramaic, and Greek.
+
+Its subject matter addresses hundreds of controversial topics. Yet, despite all this diversity, the biblical authors speak with remarkable harmony and continuity from Genesis to Revelation. It tells one unfolding story...
+
+## 📚 Additional Reading
+
+- [GoodSeed](https://www.goodseed.com/)
+- [Firm Foundations](https://biblestudy.ethnos360.org/collections/all-bible-studies/products/firm-foundations-creation-to-christ-revised-set)
+
+### [©️ Copyright and Scripture Permissions](COPYRIGHT.md)
