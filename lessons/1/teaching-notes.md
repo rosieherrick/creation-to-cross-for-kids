@@ -6,7 +6,7 @@
 
 We are going to study the most wonderful book in the whole world—the Bible!
 Does everyone here have a Bible? Hold up your Bible so I can see it.
-Did you know that the Bible in your hand is like a personal letter sent to your from God?
+Did you know that the Bible in your hand is like a personal letter sent to you from God?
 Imagine! God has written this book to each one of us so that we can know Him personally!
 
 ### God is the focus of our study
