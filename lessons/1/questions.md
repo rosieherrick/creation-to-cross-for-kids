@@ -25,3 +25,7 @@
 1. Why should a person study the Bible?
 
    _The Bible is God’s personal message to every individual._
+
+***
+👉 [Go ahead to Lesson 2](../2/index.md)
+
