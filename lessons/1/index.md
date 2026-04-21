@@ -24,7 +24,7 @@
 
 Many of us live in a society which was founded on biblical principles. Family structure, law and order, morality, social concerns, and many other basic elements of our culture were established by God and clearly recorded in His Word.
 
-Though some people in our society have never set foot in the door of a church, they have probably heard about the Bible; they may even own. Other people may go to church week after week but never open their Bibles. Most people in our culture are not aware of the Bible; but sadly, many do not know what is says because they have never taken the time to read and study it for themselves.
+Though some people in our society have never set foot in the door of a church, they have probably heard about the Bible; they may even own one. Other people may go to church week after week but never open their Bibles. Most people in our culture are not aware of the Bible; but sadly, many do not know what is says because they have never taken the time to read and study it for themselves.
 
 A child’s initial view of the Bible is usually based upon how God’s Word is treated in his home. But even if the Bible has not been taught at home, children are wonderfully teachable and are eager to learn whatever you present. Since the Word is able to penetrate the minds of skeptical adults, how much more will it touch the hearts of children! As teachers we have before us the wonderful privilege of presenting to the children the Book of books, written by the Lord of lords. The tender, loving heavenly Father and Saviour of the world. This is our opportunity to introduce to them the One God and the one Book that can transform their lives for all eternity.
 
