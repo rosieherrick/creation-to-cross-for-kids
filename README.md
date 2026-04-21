@@ -30,7 +30,7 @@ Its subject matter addresses hundreds of controversial topics. Yet, despite all 
 
 Open the lesson files below to begin teaching or reviewing the material. Each lesson includes a main lesson guide plus supporting resources where available.
 
-## 🧩 Lessons
+## 🧭 Lessons
 
 - [Lesson 1: Introducing the Bible](./lessons/1/index.md)
 - [Lesson 2: God Alone](./lessons/2/index.md)

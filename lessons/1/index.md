@@ -1,6 +1,6 @@
 # 🧑‍🤝‍🧑 [Creation to the Cross - for Kids](../../README.md)
 
-## 🧩 Lesson 1: Introducing the Bible
+## 🧭 Lesson 1: Introducing the Bible
 
 ### 📖 Scripture
 

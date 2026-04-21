@@ -1,6 +1,6 @@
 # 🧑‍🤝‍🧑 [Creation to the Cross - for Kids](../../README.md)
 
-## 🧩 Lesson 2: God Alone
+## 🧭 Lesson 2: God Alone
 
 ### 📖 Scripture – Genesis 1:1
 
