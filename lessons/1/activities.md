@@ -10,4 +10,4 @@
 
 ## 🪁 Books of the Bible Bookmark
 
-![Old Testament](image-3.png) ![New Testament](image-4.png)
+![Old Testament](./pages/image-3.png) ![New Testament](./pages/image-4.png)
