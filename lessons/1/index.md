@@ -52,6 +52,4 @@ You are carefully laying a scriptural foundation on which the Gospel will later 
 
 - ❓ [Review Questions](./questions.md)
 
-- 🖍️ [Coloring Page](./coloring-page.md)
-
 - 🚀 [Activities](./activities.md)
