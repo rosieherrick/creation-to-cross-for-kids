@@ -1,4 +1,4 @@
-# 🧭 Lesson 1: Introducing of the Bible
+# 🧭 Lesson 1: Introducing the Bible
 
 ## ❓ Review Questions
 
