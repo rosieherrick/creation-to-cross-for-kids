@@ -18,6 +18,18 @@
 - to have an increased awe of God
 - to consider God’s account of the beginning
 
+### 🧭 Overview
+
+This lesson begins to lay the foundational truth of God’s sovereignty by showing that God existed alone before the beginning and that He exists independently of all else and needs nothing. It gives a very brief introduction to the Trinity.
+
+It also establishes the fact that because God was the only One there before the beginning, He alone can tell us what happened in the beginning.
+
+### ✨🔑 Key Verse – Psalm 90:2
+
+_Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God._
+
+---
+
 ### 💭 Perspective for the Teacher
 
 In our culture, self is exalted and assigned that place of control and supremacy that belongs to God alone. Here are just a few of the evidences of this self centered thinking: People spend millions of dollars every year to improve their self-image and to try to exert more control over their lives and over the world around them. At every turn, men are seeking knowledge and boasting of their discoveries as if they had originated life and the laws that control the universe.
@@ -29,16 +41,6 @@ can correctly assess his own life or the world around him.
 
 Pray that the children will hear, recognize, and welcome the truth and begin to embrace
 the fact of God’s sovereignty.
-
-### 🧭 Overview
-
-This lesson begins to lay the foundational truth of God’s sovereignty by showing that God existed alone before the beginning and that He exists independently of all else and needs nothing. It gives a very brief introduction to the Trinity.
-
-It also establishes the fact that because God was the only One there before the beginning, He alone can tell us what happened in the beginning.
-
-### ✨🔑 Key Verse – Psalm 90:2
-
-_Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God._
 
 ### 🗣️ On Teaching The Trinity
 
