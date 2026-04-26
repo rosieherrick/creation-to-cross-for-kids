@@ -52,6 +52,6 @@ You are carefully laying a scriptural foundation on which the Gospel will later 
 
 - 🧩 [Lesson Content](./content/01.md)
 
-- ❓ [Review Questions](./questions.md)
+- ❓ [Review Questions](./content/questions.md)
 
-- 🚀 [Activities](./activities.md)
+- 🚀 [Activities](./content/activities.md)
