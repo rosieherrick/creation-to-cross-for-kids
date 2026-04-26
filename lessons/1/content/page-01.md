@@ -44,4 +44,4 @@ _The Bible is my favorite book. I know that when I read God's Word, I'll find th
 
 ---
 
-👉 [Go ahead to page 2](./02.md)
+👉 [Go ahead to page 2](./page-02.md)

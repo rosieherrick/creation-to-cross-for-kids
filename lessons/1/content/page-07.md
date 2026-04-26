@@ -10,4 +10,4 @@
 
 ---
 
-👉 [Go ahead to page 8](./08.md)
+👉 [Go ahead to page 8](./page-08.md)

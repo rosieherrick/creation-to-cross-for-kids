@@ -13,4 +13,4 @@
 
 ---
 
-👉 [Go ahead to page 6](./06.md)
+👉 [Go ahead to page 6](./page-06.md)

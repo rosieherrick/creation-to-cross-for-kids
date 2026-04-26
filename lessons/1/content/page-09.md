@@ -35,4 +35,4 @@ The Bible has not changed and never will change because God is its author.
 
 ---
 
-👉 [Go ahead to page 10](./10.md)
+👉 [Go ahead to page 10](./page-10.md)

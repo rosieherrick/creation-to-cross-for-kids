@@ -20,4 +20,4 @@ The Bible was not written all at once – it took 2,000 years for all the Bible 
 
 ---
 
-👉 [Go ahead to page 5](./05.md)
+👉 [Go ahead to page 5](./page-05.md)

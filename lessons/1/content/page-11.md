@@ -13,4 +13,4 @@ Boys and girls, dads and moms, grandmas and grandpas, **all people everywhere** 
 
 ---
 
-👉 [Go ahead to page 12](./12.md)
+👉 [Go ahead to page 12](./page-12.md)

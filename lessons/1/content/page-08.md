@@ -14,4 +14,4 @@ How did we get the Bible in our language?
 
 ---
 
-👉 [Go ahead to page 9](./09.md)
+👉 [Go ahead to page 9](./page-09.md)

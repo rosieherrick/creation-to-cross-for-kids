@@ -14,4 +14,4 @@ God gave His words to men.
 
 ---
 
-👉 [Go ahead to page 4](./04.md)
+👉 [Go ahead to page 4](./page-04.md)

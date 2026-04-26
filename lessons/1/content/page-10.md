@@ -12,4 +12,4 @@ Why is it so important for you and I to study the Bible?
 
 ---
 
-👉 [Go ahead to page 11](./11.md)
+👉 [Go ahead to page 11](./page-11.md)

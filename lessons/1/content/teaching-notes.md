@@ -156,4 +156,4 @@ The Bible is also **God's personal message to us.** He wrote it to tell everythi
 If someone wrote you a letter, what would you do? You would read it, wouldn't you!
 _Hold up your Bible_ This Bible is God's letter to you and me. Let's study God's Word together and find out what it says!
 
-[Review Questions](lesson-01-questions.md)
+[Review Questions](./questions.md)

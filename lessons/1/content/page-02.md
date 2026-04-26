@@ -20,4 +20,4 @@ God spoke to men called prophets the exact messages He wanted written down.
 
 ---
 
-👉 [Go ahead to page 3](./03.md)
+👉 [Go ahead to page 3](./page-03.md)

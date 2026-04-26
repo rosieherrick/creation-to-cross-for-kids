@@ -10,4 +10,4 @@ As the original writing wore out from use and age, new copies had to be made.
 
 ---
 
-👉 [Go ahead to page 7](./07.md)
+👉 [Go ahead to page 7](./page-07.md)

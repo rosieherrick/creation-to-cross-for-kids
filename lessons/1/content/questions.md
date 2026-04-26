@@ -27,4 +27,4 @@
    _The Bible is God’s personal message to every individual._
 
 ***
-👉 [Go ahead to Lesson 2](../2/README.md)
+👉 [Go ahead to Lesson 2](../../2/README.md)
