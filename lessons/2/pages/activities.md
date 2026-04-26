@@ -1,4 +1,4 @@
-# 🧭 [Lesson 2: God Alone](../index.md)
+# 🧭 [Lesson 2: God Alone](../README.md)
 
 ## 🚀 Activities
 

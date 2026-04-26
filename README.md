@@ -32,8 +32,8 @@ Open the lesson files below to begin teaching or reviewing the material. Each le
 
 ## 🧭 Lessons
 
-- [Lesson 1: Introducing the Bible](./lessons/1/index.md)
-- [Lesson 2: God Alone](./lessons/2/index.md)
+- [Lesson 1: Introducing the Bible](./lessons/1/README.md)
+- [Lesson 2: God Alone](./lessons/2/README.md)
 
 ## 📚 Further Info
 
