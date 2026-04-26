@@ -1,4 +1,4 @@
-## 🏁 Getting Started
+## 🏁 [Getting Started](README.md)
 
 Open the lesson files below to begin teaching or reviewing the material. Each lesson includes a main lesson guide plus supporting resources where available.
 
