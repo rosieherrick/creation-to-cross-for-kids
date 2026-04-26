@@ -31,4 +31,4 @@
     _He is greater than all and more important than all; He is the highest in authority._
 
 ***
-👉 [Go ahead to Lesson 3](../3/README.md)
+👉 [Go ahead to Lesson 3](../../3/README.md)
