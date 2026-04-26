@@ -1,0 +1,36 @@
+# 🧭 [Lesson 2: God Alone](../README.md)
+
+## 🧩 God is greater than all; He is SOVEREIGN
+
+## 📖 READ – Jeremiah 10:6
+
+_There is none like you, O LORD; you are great, and your name is great in might._
+
+|                                   Learning About God                                    |
+| :-------------------------------------------------------------------------------------: |
+|                               📖 God wants us to know Him                               |
+|                            🪐 God is everywhere all the time                            |
+|                                 💡 God knows everything                                 |
+| 👑 **God is greater than all and more important than all; He is the highest authority** |
+
+The way we describe God’s greatness is to say that God is SOVEREIGN
+
+- Webster’s Dictionary says that “sovereign” means “ruler supreme in power, chief,
+  effective in highest degree...”
+- The Bible often refers to God as _“The Most High”_
+- Psalms 83:18 calls God _“the most High over all the earth”_
+- In Isaiah 45:5, God says _“I am the LORD, and there is none else, there is no God beside me...”_
+
+|                                           God                                           |     |                                    – vs – man                                     |
+| :-------------------------------------------------------------------------------------: | :-: | :-------------------------------------------------------------------------------: |
+|                             God has no beginning and no end                             |     |                               man is born and dies                                |
+|                            God is a Trinity of three persons                            |     |                              man is only one person                               |
+|                                    God needs nothing                                    |     |               man needs food, water air, sleep, light, & protection               |
+|                                  God knows everything                                   |     |                              man needs to be taught                               |
+|                                God has no material body                                 |     |                              man has a material body                              |
+|                   God is everywhere all the time; He knows everything                   |     |                        man is only in one place at a time                         |
+| **God is greater than all and more important than all; He is the highest in authority** |     | **man under Creator-God’s authority and he should listen to everything God says** |
+
+---
+
+👉 [Go ahead to page 12](./page-12.md)

@@ -1,0 +1,39 @@
+# 🧭 [Lesson 2: God Alone](../README.md)
+
+## 🧩 Introduction
+
+Who is God?
+
+What is He like?
+
+How can we know Him?
+
+In our first lesson we said that God is the main character, the central focus, of the Bible.
+
+- He is the One who gave the Bible to us.
+- The Bible is a book of true history – **HIS** STORY from God’s point of view.
+
+We are going to learn about God from God Himself.
+
+We will study what He has said about Himself in His Word.
+
+- We’re going to learn about God, because **He wants us to know Him!**
+- Of all the good things we can study, learning about God is the very best!
+
+In Jeremiah 9:23, 24 God says \*Thus says the LORD: “Let not the wise man boast in his wisdom, let not the mighty man boast in his might, let not the rich man boast in his riches, **But let him who boasts boast in this, that he understands and knows me, that I am the LORD...”\***
+
+This verse tells us that knowing God is the most important thing we can do.
+
+How great is God?
+
+- How important is He?
+- Did He have a beginning?
+- Will He have an end?
+- Where did He come from?
+- What does God need?
+
+Let’s start at the beginning of the Bible and see how God answers these questions in His Word.
+
+---
+
+👉 [Go ahead to page 2](./page-02.md)

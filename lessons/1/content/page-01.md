@@ -1,0 +1,46 @@
+# 🧭 [Lesson 1: Introducing the Bible](../README.md)
+
+## 🧩 Introduction
+
+We are going to study the most wonderful book in the whole world—the Bible!
+
+Does everyone here have a Bible? Hold up your Bible so I can see it.
+
+Did you know that the Bible in your hand is like a personal letter sent to you from God?
+
+Imagine! God has written this book to each one of us so that we can know Him personally!
+
+## 🧩 God is the focus of our study
+
+That's why God gave us the Bible – **He wants us to know Him!**
+
+As we study, you will learn what He is really like:
+
+- Who He is
+- What He does
+- What He is like – His personality
+
+![alt text](image-5.png)
+
+## 🧩 A look at the Bible
+
+_Holding up your Bible..._ Now let's open our Bibles.
+
+What are some of the different parts of the Bible?
+
+- Table of contents
+- Old Testament
+- New Testament
+- Chapters, verse numbers
+
+The Bible is God's Word.
+
+- When we talk about the Bible being God's Word, we are talking about the words of the Bible, not the notes men have added.
+
+The Bible means a lot to me.
+
+🔎 Example: _The Bible is my favorite book. I know that when I read God's Word, I'll find the help I need for every day. The Bible tells me what God is like, He's wonderful! The more I read, the more I want to read and know Him better._
+
+---
+
+👉 [Go ahead to page 2](./page-02.md)

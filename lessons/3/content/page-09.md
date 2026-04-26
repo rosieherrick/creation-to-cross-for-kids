@@ -1,0 +1,36 @@
+# 🧭 [Lesson 3: God and the Angels](../README.md)
+
+## 🧩 God removed Lucifer and his followers from their position as God's servants
+
+🧵 THEMES - God is holy and righteous. He demands death as the payment for sin.
+
+Consider: Do you think God would let Lucifer take His position? What do you think God's reaction was to Lucifer's selfish plans?
+
+What do you think would happen if someone suddenly tried to take over our government? Do you think our president (or prime minister) would allow it? He would immediately give orders to the military to stop the rebellion.
+
+Our government is important and powerful. But God is more important and powerful than all. He gave life to all of the angels.
+
+God would not allow Lucifer to take His position.
+
+- No one can take God's place, because
+- He is the only true God.
+
+God, in great anger, removed Lucifer and from his important position as leader over the angels.
+
+God also removed the other angels who followed Lucifer from their place of service in Heaven.
+
+God is holy.
+
+He is perfect and right in everything He thinks and does.
+
+The Bible tells us that after this rebellion they were no longer God's servants; instead, they live in constant rebellion against God.
+
+We know Lucifer by other names, such as Satan and the Devil.
+
+Satan's followers are now called demons.
+
+Satan and his followers, the demons, could no longer be God's servants and no longer live in Heaven.
+
+---
+
+👉 [Go ahead to page 10](./page-10.md)

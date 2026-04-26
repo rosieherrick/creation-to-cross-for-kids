@@ -1,0 +1,16 @@
+# 🧭 [Lesson 3: God and the Angels](../README.md)
+
+## 🧩 Introduction
+
+Have you ever wondered:
+
+- Where did angels come from?
+- What about Satan – where did he come from?
+
+Who can tell us?
+
+Only God can; and He has, in His Word!
+
+---
+
+👉 [Go ahead to page 2](./page-02.md)

@@ -1,0 +1,38 @@
+# 🧭 [Lesson 3: God and the Angels](../README.md)
+
+## 🧩 God prepared the Lake of Fire for Lucifer and his followers
+
+🧵 THEMES - God is holy and righteous. He demands death as the payment for sin.
+
+God prepared a terrible place of everlasting punishment called the Lake of Fire.
+
+- One day in the future, God is going to send Satan and the demons to the Lake of Fire to be punished forever.
+
+God will not tolerate disobedience to Him; God always punishes those who fight against Him.
+
+## 📖 READ - Matthew 25:41
+
+"Then he will say to those on his left, 'Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.'"
+
+## 📖 READ - Revelation 20:10
+
+"And the devil, who deceived them, was thrown into the lake of burning sulfur, where the beast and the false prophet had been thrown. They will be tormented day and night for ever and ever."
+
+## 🧩 Lucifer and his followers hate God
+
+🧵 THEMES - Satan fights against God and His will. Satan is a liar and a deceiver. He hates man.
+
+Lucifer and his followers hate God and every good thing that God loves.
+
+Right from the time when God removed them from His service until today, Lucifer and the rebellious angels have been fighting against God and everything he does.
+
+Satan means "enemy."
+
+Satan is God's great enemy.
+
+- Satan fights against God day and night to try to stop the things God does.
+- Satan's demons help him in opposing God too.
+
+---
+
+👉 [Go ahead to page 11](./page-11.md)

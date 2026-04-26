@@ -1,0 +1,34 @@
+# 🧭 [Lesson 2: God Alone](../README.md)
+
+## 🧩 God is in all places at the same time
+
+|          Learning About God           |
+| :-----------------------------------: |
+|      📖 God wants us to know Him      |
+| 🪐 **God is everywhere all the time** |
+|      💡 **God knows everything**      |
+
+🔎 Illustration:
+  _Have you ever wanted to be in two places at the same time? Maybe you wanted to go somewhere with your family and you also wanted to stay and play a game with your friend. But you couldn’t do that. You and I and all people can only be in one place at a time. But God is everywhere, all the time!_
+
+|                  God                  |     |                      – vs – man                       |
+| :-----------------------------------: | :-: | :---------------------------------------------------: |
+|    God has no beginning and no end    |     |                 man is born and dies                  |
+|   God is a Trinity of three persons   |     |                man is only one person                 |
+|           God needs nothing           |     | man needs food, water air, sleep, light, & protection |
+|         God knows everything          |     |                man needs to be taught                 |
+|       God has no material body        |     |                man has a material body                |
+| **God is everywhere all of the time** |     |        **man is only in one place at a time**         |
+
+God and God alone is able to be everywhere all the time. Since God is everywhere all the time, is there any place you can be or go where He is not?
+
+Is there any place you can “hide” from God?
+
+## 📖 READ – Psalm 139:7-10
+
+_Where shall I go from your Spirit? Or where shall I flee from your presence? If I ascend to heaven, you
+are there! If I make my bed in the depths, you are there! If I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me._
+
+---
+
+👉 [Go ahead to page 11](./page-11.md)

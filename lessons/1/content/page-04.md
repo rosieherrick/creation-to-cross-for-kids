@@ -1,0 +1,23 @@
+# 🧭 [Lesson 1: Introducing the Bible](../README.md)
+
+## 🧩 God wants us to know Him
+
+![alt text](image-9.png)
+
+|       Learning About God        |
+| :-----------------------------: |
+| 📖 **God wants us to know Him** |
+
+No other book in the world was written this way – with God telling men exactly what to write.
+
+God is the author of the Bible.
+
+God used more than 40 men to write down His Words.
+
+God used all kinds of different men… Moses–a shepherd, David and Solomon–both were kings, Peter–a fisherman, Matthew–a tax collector, Paul–a tent maker.
+
+The Bible was not written all at once – it took 2,000 years for all the Bible to be written down!
+
+---
+
+👉 [Go ahead to page 5](./page-05.md)

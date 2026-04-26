@@ -1,0 +1,13 @@
+# 🧭 [Lesson 1: Introducing the Bible](../README.md)
+
+## 🧩 The Bible has been passed down to us intact and with extreme accuracy
+
+![alt text](image-2.png)
+
+## 🧩 Prophets wrote down God’s exact message
+
+As the original writing wore out from use and age, new copies had to be made.
+
+---
+
+👉 [Go ahead to page 7](./page-07.md)

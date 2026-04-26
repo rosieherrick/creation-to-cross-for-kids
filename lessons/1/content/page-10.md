@@ -1,0 +1,15 @@
+# 🧭 [Lesson 1: Introducing the Bible](../README.md)
+
+## 🧩 The Bible is God's personal message to each of us; It is the most important message we will ever be given
+
+## 📖 READ - Psalm 119:89
+
+_Forever, O Lord, your word is firmly fixed in the heavens._
+
+![alt text](image-16.png)
+
+Why is it so important for you and I to study the Bible?
+
+---
+
+👉 [Go ahead to page 11](./page-11.md)
