@@ -2,7 +2,7 @@
 
 ## 🏁 [Getting Started](./lessons/README.md)
 
-To begin teaching or reviewing the material, start with the [lessons folder](./lessons/README.md). Each one includes a main guide and supporting resources where available.
+To begin teaching or reviewing the material, start with the [lessons folder](./lessons/README.md). Each one includes a main guide and supporting resources where available. Read more below for an overview of the curriculum and its approach to teaching the Bible.
 
 ## 📋 About
 
@@ -33,5 +33,4 @@ Its subject matter addresses hundreds of controversial topics. Yet, despite all 
 ## 📚 Further Info
 
 - [Firm Foundations](https://archive.org/details/firmfoundationsc0000mcil)
-
 - [GoodSeed](https://www.goodseed.com/)
