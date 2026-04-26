@@ -26,14 +26,7 @@ The Bible was written across three continents—Asia, Africa, and Europe—and i
 
 Its subject matter addresses hundreds of controversial topics. Yet, despite all this diversity, the biblical authors speak with remarkable harmony and continuity from Genesis to Revelation. It tells one unfolding story...
 
-## 🏁 Getting Started
-
-Open the lesson files below to begin teaching or reviewing the material. Each lesson includes a main lesson guide plus supporting resources where available.
-
-## 🧭 Lessons
-
-- [Lesson 1: Introducing the Bible](./lessons/1/README.md)
-- [Lesson 2: God Alone](./lessons/2/README.md)
+## 🏁 [Getting Started](./lessons/README.md)
 
 ## 📚 Further Info
 
