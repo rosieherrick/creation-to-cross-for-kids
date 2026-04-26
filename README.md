@@ -1,9 +1,5 @@
 # 🧑‍🤝‍🧑 Creation to the Cross – for Kids
 
-## 🏁 [Getting Started](./lessons/README.md)
-
-To begin teaching or reviewing the material, start with the [lessons folder](./lessons/README.md). Each one includes a main guide and supporting resources where available. Read more below for an overview of the curriculum and its approach to teaching the Bible.
-
 ## 📋 About
 
 *Creation to the Cross – for Kids* is built on a simple truth: even young children can understand the Bible’s most important message. Like a puzzle, each story is a piece that fits into a bigger picture—and as children discover each piece, they begin to see God’s plan unfold.
@@ -29,6 +25,10 @@ They were written at different times—David during war, Solomon during peace—
 The Bible was written across three continents—Asia, Africa, and Europe—and in three languages: Hebrew, Aramaic, and Greek.
 
 Its subject matter addresses hundreds of controversial topics. Yet, despite all this diversity, the biblical authors speak with remarkable harmony and continuity from Genesis to Revelation. It tells one unfolding story...
+
+## 🏁 [Getting Started](./lessons/README.md)
+
+To begin teaching or reviewing the material, start with the [lessons folder](./lessons/README.md). Each one includes a main guide and supporting resources where available. Read more below for an overview of the curriculum and its approach to teaching the Bible.
 
 ## 📚 Further Info
 
