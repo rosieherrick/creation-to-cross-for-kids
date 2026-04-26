@@ -10,6 +10,10 @@ With clear teaching notes, engaging activities, and thoughtful review questions,
 
 *And beginning with Moses and all the Prophets, He explained to them what was said in all the Scriptures concerning Himself.* – Luke 24:27
 
+## 🏁 [Getting Started](./lessons/README.md)
+
+To begin teaching or reviewing the material, start with the [lessons folder](./lessons/README.md). Each one includes a main guide and supporting resources where available. Read more below for an overview of the curriculum and its approach to teaching the Bible.
+
 ## 📜  A Unique Book
 
 There is no doubt about it—the Bible is a unique book. In fact, it is a collection of 66 books.
@@ -25,10 +29,6 @@ They were written at different times—David during war, Solomon during peace—
 The Bible was written across three continents—Asia, Africa, and Europe—and in three languages: Hebrew, Aramaic, and Greek.
 
 Its subject matter addresses hundreds of controversial topics. Yet, despite all this diversity, the biblical authors speak with remarkable harmony and continuity from Genesis to Revelation. It tells one unfolding story...
-
-## 🏁 [Getting Started](./lessons/README.md)
-
-To begin teaching or reviewing the material, start with the [lessons folder](./lessons/README.md). Each one includes a main guide and supporting resources where available. Read more below for an overview of the curriculum and its approach to teaching the Bible.
 
 ## 📚 Further Info
 
