@@ -50,7 +50,7 @@ You are carefully laying a scriptural foundation on which the Gospel will later 
 
 ---
 
-- 🧩 [Lesson Content](./pages/01.md)
+- 🧩 [Lesson Content](./content/01.md)
 
 - ❓ [Review Questions](./questions.md)
 

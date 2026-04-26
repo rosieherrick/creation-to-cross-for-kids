@@ -12,8 +12,8 @@
 
 - ### 2 Timothy 3:16-17
 
-![alt text](./pages/image-21.png)
+![alt text](./content/image-21.png)
 
 ## 🪁 Books of the Bible Bookmark
 
-![Old Testament](./pages/image-3.png) ![New Testament](./pages/image-4.png)
+![Old Testament](./content/image-3.png) ![New Testament](./content/image-4.png)

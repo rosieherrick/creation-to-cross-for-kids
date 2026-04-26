@@ -12,12 +12,12 @@
 
 - ### God-Who He Is
 
-![alt text](./pages/image-1.png)
+![alt text](./content/image-1.png)
 
 - ### Lesson 1-3 Review-God is the Highest in Authority
 
-![alt text](./pages/image-2.png)
+![alt text](./content/image-2.png)
 
 - ### Thanks for who God is
 
-![alt text](./pages/image-3.png)
+![alt text](./content/image-3.png)
